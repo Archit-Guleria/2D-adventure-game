@@ -28,7 +28,7 @@ import states.SelectLevelState;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Game implements Runnable{
     private Thread thread;

@@ -11,7 +11,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Cactus2 extends StaticEntity {
     private static int objectWidth = 65;

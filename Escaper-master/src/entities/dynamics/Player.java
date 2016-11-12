@@ -22,7 +22,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 
 public class Player extends DynamicEntity {

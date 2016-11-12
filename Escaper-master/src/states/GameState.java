@@ -14,7 +14,7 @@ import worlds.World;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class GameState extends State {
     private World world;

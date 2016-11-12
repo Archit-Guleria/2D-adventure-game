@@ -15,7 +15,7 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 
 /**
  *
- * @author asus
+ * @author archit
  */
 
 //Sfx.soundSetting = Toggle.OFF;

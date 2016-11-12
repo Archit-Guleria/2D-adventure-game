@@ -13,7 +13,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Golem extends DynamicEntity {
     private Animation golem_walk_right, golem_walk_left;

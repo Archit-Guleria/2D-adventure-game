@@ -14,7 +14,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Powerup extends StaticEntity {
     private static int objectWidth = 40;

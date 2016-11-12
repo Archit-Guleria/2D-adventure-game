@@ -9,7 +9,7 @@ import gfx.Assets;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Float1 extends Tile {
 

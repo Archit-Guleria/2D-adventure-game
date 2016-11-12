@@ -9,7 +9,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class GameStateManager {
     private Handler handler;

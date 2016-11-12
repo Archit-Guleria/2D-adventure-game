@@ -17,7 +17,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Fireball extends DynamicEntity {
     private Animation fireballDown, fireballUp;

@@ -13,7 +13,7 @@ import worlds.World;
  */
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Handler {
     private Game game;

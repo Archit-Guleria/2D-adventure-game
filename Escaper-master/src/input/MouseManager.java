@@ -22,7 +22,7 @@ import worlds.World;
 
 /**
  *
- * @author USER
+ * @author archit
  */
 public class MouseManager implements MouseListener, MouseMotionListener {
 

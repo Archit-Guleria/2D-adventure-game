@@ -20,7 +20,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class EnergyBall extends DynamicEntity {
     private int patrolDistance;

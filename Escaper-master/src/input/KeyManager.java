@@ -10,10 +10,10 @@ import java.awt.event.KeyListener;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 
-// http://pastie.org/5579314#22,38
+
 public class KeyManager implements KeyListener {
     private boolean[] keys;
     public boolean up, down, left, right, reset, developer,

@@ -15,7 +15,7 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 
 /**
  *
- * @author asus
+ * @author archit guleria
  */
 public enum Bgm {
     MENU("bgm/Intro_Theme.wav"),

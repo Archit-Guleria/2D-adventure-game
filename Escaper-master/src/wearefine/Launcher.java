@@ -7,7 +7,7 @@ package wearefine;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Launcher {
 

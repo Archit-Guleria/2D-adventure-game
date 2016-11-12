@@ -12,7 +12,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Stone extends StaticEntity {
     private static int objectWidth = 100;

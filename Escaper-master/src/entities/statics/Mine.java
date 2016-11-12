@@ -15,7 +15,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Mine extends StaticEntity {
     private static int objectWidth = 70; //55

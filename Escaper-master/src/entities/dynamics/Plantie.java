@@ -15,7 +15,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Plantie extends DynamicEntity {
     private Animation plantie_left, plantie_right;            

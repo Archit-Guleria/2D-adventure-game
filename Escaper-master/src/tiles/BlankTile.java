@@ -9,7 +9,7 @@ import gfx.Assets;
 
 /**
  *
- * @author s3500291
+ * @author archit
  */
 public class BlankTile extends Tile {    
     public BlankTile(int id) {

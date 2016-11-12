@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Display {
     private JFrame frame;

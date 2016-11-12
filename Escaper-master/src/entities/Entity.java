@@ -13,7 +13,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public abstract class Entity {
     protected float x, y;    

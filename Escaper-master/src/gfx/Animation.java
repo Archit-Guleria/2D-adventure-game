@@ -9,7 +9,7 @@ import java.awt.image.BufferedImage;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Animation {
     private int speed, index;

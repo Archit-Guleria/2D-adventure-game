@@ -16,7 +16,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class ScoreState extends State {
     private int score;

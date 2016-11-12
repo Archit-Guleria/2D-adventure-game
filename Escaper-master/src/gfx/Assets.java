@@ -11,7 +11,7 @@ import java.awt.image.BufferedImage;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Assets {            
     public static BufferedImage[] player_idle_left, player_idle_right,  

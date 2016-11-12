@@ -12,7 +12,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author s3500291
+ * @author archit
  */
 public class Spike1 extends StaticEntity {
     private static int objectWidth = 180;

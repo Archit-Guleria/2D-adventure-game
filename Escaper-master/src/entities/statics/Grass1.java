@@ -11,7 +11,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Grass1 extends StaticEntity {
     private static int objectWidth = 70;

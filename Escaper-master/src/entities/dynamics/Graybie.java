@@ -16,7 +16,7 @@ import wearefine.Handler;
 
 /**
  *
- * @author Anthony Nguyen
+ * @author archit
  */
 public class Graybie extends DynamicEntity {
     private Animation graybie_left, graybie_right;
